@@ -43,7 +43,7 @@ ul {
     margin: 0 0 16px 0;
 }
 .task-input,
-input.new-task,
+.task-input.new-task,
 .task {
     width: 56%;
     display: inline-block;
